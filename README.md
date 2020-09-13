@@ -1,11 +1,11 @@
 # kanban front end
-Project with sample kanban UI / Front Ends in various frontend languages and framework
+Project with sample kanban UI / Front Ends in various frontend languages and frameworks
 
 ## Why
 Demonstrate implementation of front end in different languages and frameworks. The idea is that the code can be re-used in your own organization, so you don't have to pay for trello, asana and other external kanban boards.
 
 ## How
-Sample front end implementation (wireframe) of a minimal kanban or scrum board, based on the sample datamodel
+Sample simple front end requirement and implementation of a minimal kanban or scrum board, based on the sample datamodel. The implementation will be minimal, to enable higher quality requirement and maximize language and framework variations.
 
 ### Data Model
 ![kanban.png](kanban.png)
@@ -81,4 +81,17 @@ i1.2 : Add : Adding a status will create a new swimlane / column
 i1.3 : Update : Status shall be editable inline. The location (ordinal) and status can be edited by drag and drop  
 i1.4 : Delete : Deleted staus will be moved to trash together will the items in the status (soft delete)  
 i1.5 : Archive : Archived status will change item status to 'Archived' a hidden list  
+
+## Other kanban or scrum boards
+
+1.  https://www.trello.com (free public, paid powerups) 
+2.  https://www.asana.com (free 30 day)
+3.  https://azure.microsoft.com/en-us/services/devops/boards/ (limited to / integrated with Azure projects)
+
+## Additional Links
+
+1.  https://en.wikipedia.org/wiki/Kanban_board
+2.  https://kanbanize.com/kanban-resources/getting-started/what-is-kanban-board
+3.  Kanban Sushi https://youtu.be/R8dYLbJiTUE?t=17
+
 
