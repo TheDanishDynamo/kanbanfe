@@ -63,5 +63,5 @@ Sample front end implementations of a minimal kanban or scrum board, based on th
 ## Wireframe 
 Drawing for the UI for the sample data
 
-![wireframe.png](wireframe.png)
+![wireframe.jpg](wireframe.jpg)
 
