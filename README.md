@@ -2,7 +2,7 @@
 Project with sample kanban UI / Front Ends in various frontend languages and frameworks
 
 ## Why
-Demonstrate implementation of front end in different languages and frameworks. The idea is that the code can be re-used in your own organization, so you don't have to pay for trello, asana and other external kanban boards.
+Demonstrate implementation of front end in different languages and frameworks. The idea is that the code can be re-used in your own organization, so you don't have to pay for trello, asana and other external kanban boards. When implementations become available, you can pick the language and framework that your organization use, or if you want to make a SaaS product, you are welcome to copy the requirement and related code.
 
 ## How
 Sample simple front end requirement and implementation of a minimal kanban or scrum board, based on the sample datamodel. The implementation will be minimal, to enable higher quality requirement and maximize language and framework variations.
