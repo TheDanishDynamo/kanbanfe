@@ -61,8 +61,24 @@ Sample front end implementation (wireframe) of a minimal kanban or scrum board, 
 
 ```
 
-## Wireframe 
+### Wireframe 
 Drawing for the UI for the sample data
 
 ![wireframe.jpg](wireframe.jpg)
+
+### User Interactions
+
+i1 : Item
+i1.1 : View : Items shall be shown/hidden by status, ordinal on the board. 2 x clicking an item will pop up the title+description detail view
+i1.2 : Add : Items can be added, in a given swimlane
+i1.3 : Update : Title shall be editable inline via one click, and in detail view via (2xc). The location (ordinal) and status can be edited by drag and drop
+i1.4 : Delete : Deleted items will be moved to trash (soft delete)
+i1.5 : Archive : Archived items will change status to 'Archived' a hidden list
+
+i2 : Status
+i2.1 : View : Status is sorted by ordinal and location. There is no detail view of status.
+i1.2 : Add : Adding a status will create a new swimlane / column
+i1.3 : Update : Status shall be editable inline. The location (ordinal) and status can be edited by drag and drop
+i1.4 : Delete : Deleted staus will be moved to trash together will the items in the status (soft delete)
+i1.5 : Archive : Archived status will change item status to 'Archived' a hidden list
 
